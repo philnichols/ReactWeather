@@ -1490,7 +1490,7 @@
 /* 241 */
 /***/ function(module, exports, __webpack_require__) {
 
-	eval("'use strict';\n\nvar React = __webpack_require__(1);\nvar About = function About(props) {\n\n    return React.createElement(\n        'h3',\n        null,\n        'About Component '\n    );\n};\n\nmodule.exports = About;//@ sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjQxLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0Fib3V0LmpzeD8yNThmIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XHJcbnZhciBBYm91dCA9IChwcm9wcykgPT4ge1xyXG5cclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPGgzPkFib3V0IENvbXBvbmVudCA8L2gzPlxyXG4gICAgKVxyXG5cclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzID0gQWJvdXQ7XG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogYXBwL2NvbXBvbmVudHMvQWJvdXQuanN4XG4gKiovIl0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQTtBQUNBOzs7O0FBQUE7QUFGQTtBQUNBO0FBT0EiLCJzb3VyY2VSb290IjoiIn0=");
+	eval("'use strict';\n\nvar React = __webpack_require__(1);\nvar About = function About(props) {\n\n    return React.createElement(\n        'h3',\n        null,\n        'Welcome to the about page'\n    );\n};\n\nmodule.exports = About;//@ sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjQxLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0Fib3V0LmpzeD8yNThmIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoJ3JlYWN0Jyk7XHJcbnZhciBBYm91dCA9IChwcm9wcykgPT4ge1xyXG5cclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPGgzPldlbGNvbWUgdG8gdGhlIGFib3V0IHBhZ2U8L2gzPlxyXG4gICAgKVxyXG5cclxufTtcclxuXHJcbm1vZHVsZS5leHBvcnRzID0gQWJvdXQ7XG5cblxuLyoqIFdFQlBBQ0sgRk9PVEVSICoqXG4gKiogYXBwL2NvbXBvbmVudHMvQWJvdXQuanN4XG4gKiovIl0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQ0E7QUFDQTtBQUNBOzs7O0FBQUE7QUFGQTtBQUNBO0FBT0EiLCJzb3VyY2VSb290IjoiIn0=");
 
 /***/ },
 /* 242 */
