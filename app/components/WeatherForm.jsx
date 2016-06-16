@@ -16,7 +16,7 @@ var WeatherForm = React.createClass({
 
                 <p>To throw error use this: Lfghdhfjkdhkj</p>
                 <form onSubmit={this.onFormSubmit}>
-                    <input type="text" ref="location" />
+                    <input type="search" ref="location" placeholder="Search weather by City"/>
                     <button className="expanded button hollow">Get Weather</button>
                 </form>
             </div>
