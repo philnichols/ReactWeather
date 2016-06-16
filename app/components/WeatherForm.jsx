@@ -13,8 +13,10 @@ var WeatherForm = React.createClass({
     render: function () {
         return (
             <div>
+
+                <p>To throw error use this: Lfghdhfjkdhkj</p>
                 <form onSubmit={this.onFormSubmit}>
-                    <input type="text" ref="location"/>
+                    <input type="text" ref="location" />
                     <button className="expanded button hollow">Get Weather</button>
                 </form>
             </div>
